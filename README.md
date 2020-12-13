@@ -1,5 +1,5 @@
 # T00ls sign
-使用 GitHub Actions 每天自动执行 T00ls 签到
+使用 GitHub Actions 每天自动执行 T00ls 签到~
 参(chao)考(xi)自 https://github.com/xirikm/hostloc-auto-get-points
 
 ## 使用说明
